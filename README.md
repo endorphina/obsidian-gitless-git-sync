@@ -1,6 +1,6 @@
-# GitHub Gitless Sync
+# Gitea Gitless Sync
 
-Plugin to sync a GitHub repository with an Obsidian vault.
+Plugin to sync a Gitea repository with an Obsidian vault.
 
 I highly recommend not using this plugin with another sync service.
 This might create problems for this plugin when determining what needs to be synced between remote repository and local vault.
